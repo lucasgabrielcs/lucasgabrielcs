@@ -1,31 +1,64 @@
-## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasgabrielcs/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasgabrielcs)
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:lucasgabrielcs68@gmail.com)
-## Habilidades
-### Linguagens
+# Lucas Gabriel Cardoso Souza
+
+### 📊 Engenheiro de Dados em Formação | Construindo pipelines do zero ao deploy
+
+Estudante de Sistemas de Informação na **CESAR School** (Recife/PE), em transição para Engenharia de Dados. Ex-fullstack pela Cubos Academy — trago a visão de quem entende o ciclo completo do software e agora foca em **mover, transformar e garantir qualidade de dados em escala**.
+
+> 🔨 **Projeto atual:** [Forja de Dados — Plataforma de Dados Financeiros](https://github.com/lucasgabrielcs/forja-dados-financeiros)
+> Pipeline ELT completo: API do Banco Central → Postgres → dbt → BigQuery → Airflow → Dashboard
+
+---
+
+## 🛠️ Stack
+
+**Core — o que uso todo dia:**
+
 ![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+**Aprendendo — Modern Data Stack:**
+
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+
+**Background (Full Stack):**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
-### Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-### Ferramentas
-![n8n](https://img.shields.io/badge/n8n-%23DD0031?style=for-the-badge&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-## GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasgabrielcs&theme=midnight-purple&show_icons=true)
+## 🚀 Projetos em Destaque
+
+| Projeto | Stack | Descrição |
+|---------|-------|-----------|
+| **[Forja de Dados Financeiros](https://github.com/lucasgabrielcs/FDF-Forja-Dados-Financeiros)** | Python · dbt · Airflow · BigQuery · Docker | Pipeline ELT completo com dados do Banco Central — ingestão, modelagem dimensional, testes de qualidade e orquestração |
+| **[BCB Dashboard](https://github.com/andre4383/BCB-Dashboard)** | Python · Streamlit · API BCB | Dashboard interativo de indicadores financeiros do Banco Central do Brasil (projeto colaborativo) |
+| **[Análise E-commerce](https://github.com/lucasgabrielcs/analise-dados-ecommerce)** | Python · Pandas · Matplotlib | Análise exploratória de dados de vendas: tratamento de nulos, faturamento por produto e visualização |
+| **[LogicRush](https://github.com/lucasgabrielcs/LogicRush)** | C | Jogo de lógica em grupo — estruturas de dados, gerenciamento de memória e máquina de estados |
+---
+
+## 📜 Certificações
+
+- 🟢 **Intermediate SQL** — DataCamp (Jun/2026)
+- 🟢 **Intermediate Python** — DataCamp (Nov/2025)
+- 🟡 *Em andamento:* SQL Associate Certification · AWS Cloud Practitioner
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=lucasgabrielcs&theme=tokyonight&show_icons=true&hide_border=true)
+---
+
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasgabrielcs/)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:lucasgabrielcs68@gmail.com)
